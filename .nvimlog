@@ -1,0 +1,1 @@
+ERROR 2022-06-03T14:08:14.827 5196  terminfo_start:328: uv_tty_set_mode failed: invalid argument
